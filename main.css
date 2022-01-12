@@ -1,0 +1,25 @@
+nav{
+    background-color:red;
+    color:mediumblue;
+    /* position:fixed*/
+    width:100%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+footer{
+    background-color:black;
+    text-align: center;
+    color:white;
+    position:relative;
+    width: 100%;
+
+
+
+}
+
+body{
+    background-color:pink;
+    
+}
